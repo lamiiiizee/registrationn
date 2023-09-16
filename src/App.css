@@ -1,0 +1,31 @@
+.d-flex {
+  display: flex;
+  gap: 246px;
+}
+
+.text-green {
+  color: #23db23;
+}
+.container {
+  margin: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.d-flex-log-logou {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 20px;
+  margin: 30px 152px 0 0;
+}
+
+.navbar-item {
+  padding: 8px 15px 27px 2px;
+  border: none;
+  opacity: 9;
+  cursor: pointer;
+}
